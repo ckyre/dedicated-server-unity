@@ -1,0 +1,14 @@
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\new\Server\bin\Debug\Server.exe.config
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\new\Server\bin\Debug\Server.exe
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\new\Server\bin\Debug\Server.pdb
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\new\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\new\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\new\Server\obj\Debug\Server.exe
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\new\Server\obj\Debug\Server.pdb
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\Server\bin\Debug\Server.exe.config
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\Server\bin\Debug\Server.exe
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\Server\bin\Debug\Server.pdb
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\Server\obj\Debug\Server.exe
+E:\Documents\Projets\Local\Logiciels\Dedicated game server\Server\obj\Debug\Server.pdb
